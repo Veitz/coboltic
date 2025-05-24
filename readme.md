@@ -14,7 +14,8 @@ Beispiel: Kompilieren eines COBOL-Programms:
 
 cobc -x helloworld.cob  
 
-Der Aufruf des Programms:
+Der Aufruf des Programms:  
+
 ./helloworld
 
 Beispielprogramm zum Testen:
