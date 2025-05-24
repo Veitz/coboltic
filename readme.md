@@ -3,7 +3,8 @@
 Installation unter Ubuntu 22.04:
 
 sudo apt update
-sudo apt install gnucobol4
+sudo apt install gnucobol4  
+(Raspberry-Pi-OS: sudo apt install gnucobol)
 
 COBOL-Compiler cobc:
 
@@ -11,7 +12,9 @@ cobc -v     # zeigt die Version
 
 Beispiel: Kompilieren eines COBOL-Programms:
 
-cobc -x helloworld.cob
+cobc -x helloworld.cob  
+
+Der Aufruf des Programms:
 ./helloworld
 
 Beispielprogramm zum Testen:
