@@ -33,7 +33,7 @@ nützliche Pakete
 
 Wenn du z. B. Dokumentation willst:
 
-       sudo apt install gnucobol4-doc
+       sudo apt install gnucobol4-doc  
 
 
     
