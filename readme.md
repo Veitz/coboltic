@@ -39,4 +39,4 @@ Wenn du z. B. Dokumentation willst:
     
 ### Mehrwertsteuer Rechner 19%
 
-coming soon...
+NettoBruttoCalc.cob ist ein 19%mwst Rechner, der aus Netto das Brutto berechnet.
